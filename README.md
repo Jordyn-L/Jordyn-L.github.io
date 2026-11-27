@@ -1,3 +1,5 @@
+https://roy-elia.github.io/corner-of-the-internet/#deploy
+https://www.figma.com/deck/JktsuhgxQJbweD76pzwIUp/Build-Your-Corner-of-the-Internet-%F0%9F%8C%90-Notion-x-CSUS-x-Douze-%C3%A0-Deux?node-id=4001-36
 # portfolio-starter
 
 A one-page personal website you can have live in about ten minutes. Plain HTML and CSS: no installs, no build step.

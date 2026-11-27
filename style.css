@@ -4,12 +4,12 @@
 */
 :root {
   --paper: #eef1f6;       /* page background */
-  --window: #ffffff;      /* the "about me" window */
+  --window: #0055ff;      /* the "about me" window */
   --ink: #1b2130;         /* main text */
   --muted: #5a6376;       /* dates, small text */
-  --line: #c9d0dc;        /* borders */
+  --line: #ff7e00;        /* borders */
   --link: #2450d8;        /* links */
-  --highlight: #ffe14d;   /* the marker behind your name */
+  --highlight: #ff7e00;   /* the marker behind your name */
 
   --display: "Bricolage Grotesque", system-ui, sans-serif;
   --body: "Source Serif 4", Georgia, serif;
